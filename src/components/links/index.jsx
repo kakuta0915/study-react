@@ -1,5 +1,4 @@
-import { Inter } from "@next/font/google";
-import styles from "@/styles/links.module.css";
+import styles from "./links.module.css";
 
 const inter = Inter({ subsets: ["latin"] });
 

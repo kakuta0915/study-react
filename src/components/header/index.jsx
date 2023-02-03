@@ -1,4 +1,4 @@
-import styles from "@/styles/header.module.css";
+import styles from "./header.module.css";
 import Link from "next/link";
 export function Header() {
   return (

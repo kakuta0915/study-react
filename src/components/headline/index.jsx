@@ -1,5 +1,4 @@
-import { Inter } from "@next/font/google";
-import styles from "@/styles/headline.module.css";
+import styles from "./headline.module.css";
 
 export function Headline(props) {
   return (
